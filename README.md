@@ -2,7 +2,7 @@
 Proiect webdev 
 
 
-Echipa : 
-Ungureanu Alexandru-Alin
-Pruteanu Mihai Adrian
+Echipa : <br></br>
+Ungureanu Alexandru-Alin,
+Pruteanu Mihai Adrian,
 Alexandrescu Vlad
